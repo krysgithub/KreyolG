@@ -1,0 +1,74 @@
+{
+  "fichiers": [
+    {
+      "nom": "Docp1.csv",
+      "premier_mot": "À cause de",
+      "dernier_mot": "attacher"
+    },
+    {
+      "nom": "Docp2.csv",
+      "premier_mot": "Attraper",
+      "dernier_mot": "Cabosser, déformer"
+    },
+    {
+      "nom": "Docp3.csv",
+      "premier_mot": "Cadence",
+      "dernier_mot": "Conséquences, Suite"
+    },
+    {
+      "nom": "Docp4.csv",
+      "premier_mot": "Continuer",
+      "dernier_mot": "détranper"
+    },
+    {
+      "nom": "Docp5.csv",
+      "premier_mot": "Devant",
+      "dernier_mot": "Enfant insupportable"
+    },
+    {
+      "nom": "Doc6.csv",
+      "premier_mot": "Enivremente",
+      "dernier_mot": "Gens d’ailleurs"
+    },
+    {
+      "nom": "Docp7.csv",
+      "premier_mot": "Geste",
+      "dernier_mot": "Je suis là, comment"
+    },
+    {
+      "nom": "Docp8.csv",
+      "premier_mot": "Jeune fille",
+      "dernier_mot": "Mélanger"
+    },
+    {
+      "nom": "Docp9.csv",
+      "premier_mot": "Même chose",
+      "dernier_mot": "Où est"
+    },
+    {
+      "nom": "Docp10.csv",
+      "premier_mot": "Oublier (s’)",
+      "dernier_mot": "Pour (lui)"
+    },
+    {
+      "nom": "Docp11.csv",
+      "premier_mot": "Pour ce qui est de",
+      "dernier_mot": "Renconter"
+    },
+    {
+      "nom": "Docp12.csv",
+      "premier_mot": "Renconter",
+      "dernier_mot": "Soutenir"
+    },
+    {
+      "nom": "Docp13.csv",
+      "premier_mot": "Soutien solide",
+      "dernier_mot": "Trémousser"
+    },
+    {
+      "nom": "Docp14.csv",
+      "premier_mot": "Tremper un petit bout",
+      "dernier_mot": "Voix"
+    }
+  ]
+}

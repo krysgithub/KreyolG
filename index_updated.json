@@ -1,0 +1,130 @@
+{
+    "fichiers": [
+        {
+            "nom": "Docp1.csv",
+            "premier_mot": "À cause de",
+            "dernier_mot": "attacher",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp2.csv",
+            "premier_mot": "Attraper",
+            "dernier_mot": "Cabosser, déformer",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp3.csv",
+            "premier_mot": "Cadence",
+            "dernier_mot": "Conséquences, Suite",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp4.csv",
+            "premier_mot": "Continuer",
+            "dernier_mot": "détranper",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp5.csv",
+            "premier_mot": "Devant",
+            "dernier_mot": "Enfant insupportable",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Doc6.csv",
+            "premier_mot": "Enivremente",
+            "dernier_mot": "Gens d’ailleurs",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp7.csv",
+            "premier_mot": "Geste",
+            "dernier_mot": "Je suis là, comment",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp8.csv",
+            "premier_mot": "Jeune fille",
+            "dernier_mot": "Mélanger",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp9.csv",
+            "premier_mot": "Même chose",
+            "dernier_mot": "Où est",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp10.csv",
+            "premier_mot": "Oublier (s’)",
+            "dernier_mot": "Pour (lui)",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp11.csv",
+            "premier_mot": "Pour ce qui est de",
+            "dernier_mot": "Renconter",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp12.csv",
+            "premier_mot": "Renconter",
+            "dernier_mot": "Soutenir",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp13.csv",
+            "premier_mot": "Soutien solide",
+            "dernier_mot": "Trémousser",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        },
+        {
+            "nom": "Docp14.csv",
+            "premier_mot": "Tremper un petit bout",
+            "dernier_mot": "Voix",
+            "colonnes": {
+                "mot": "mot",
+                "traduction": "traductions"
+            }
+        }
+    ]
+}
